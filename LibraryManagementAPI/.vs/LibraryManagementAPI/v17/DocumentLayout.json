@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A4741C-ED05-48E8-BAAF-7E9E7111F3E0}|..\\LibraryManagementAPI.Managers\\LibraryManagementAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832FB0A6-554E-4FA1-825C-812D5F69B5A7}|..\\LibraryManagementAPI.DataAccess\\LibraryManagementAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.dataaccess\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578873FF-2E9F-4A21-B726-8E9529568427}|..\\LibraryManagementAPI.Interfaces\\LibraryManagementAPI.Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578873FF-2E9F-4A21-B726-8E9529568427}|..\\LibraryManagementAPI.Interfaces\\LibraryManagementAPI.Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.interfaces\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A4741C-ED05-48E8-BAAF-7E9E7111F3E0}|..\\LibraryManagementAPI.Managers\\LibraryManagementAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.managers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A4741C-ED05-48E8-BAAF-7E9E7111F3E0}|..\\LibraryManagementAPI.Managers\\LibraryManagementAPI.Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578873FF-2E9F-4A21-B726-8E9529568427}|..\\LibraryManagementAPI.Interfaces\\LibraryManagementAPI.Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.interfaces\\imanagers\\icategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832FB0A6-554E-4FA1-825C-812D5F69B5A7}|..\\LibraryManagementAPI.DataAccess\\LibraryManagementAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.dataaccess\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832FB0A6-554E-4FA1-825C-812D5F69B5A7}|..\\LibraryManagementAPI.DataAccess\\LibraryManagementAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\bookcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\bookupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578873FF-2E9F-4A21-B726-8E9529568427}|..\\LibraryManagementAPI.Interfaces\\LibraryManagementAPI.Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.interfaces\\imanagers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578873FF-2E9F-4A21-B726-8E9529568427}|..\\LibraryManagementAPI.Interfaces\\LibraryManagementAPI.Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.interfaces\\imanagers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832FB0A6-554E-4FA1-825C-812D5F69B5A7}|..\\LibraryManagementAPI.DataAccess\\LibraryManagementAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.dataaccess\\repositories\\baserepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E5BB47-1049-4C22-95CF-9A415F425050}|LibraryManagementAPI.csproj|solutionrelative:profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832FB0A6-554E-4FA1-825C-812D5F69B5A7}|..\\LibraryManagementAPI.DataAccess\\LibraryManagementAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.dataaccess\\context\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\borrowrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3817AFB-AD55-48E4-A147-2E3D5317F30B}|..\\LibraryManagementAPI.Models\\LibraryManagementAPI.Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.models\\dtos\\borrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832FB0A6-554E-4FA1-825C-812D5F69B5A7}|..\\LibraryManagementAPI.DataAccess\\LibraryManagementAPI.DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\librarymanagementapi\\librarymanagementapi.dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Migrations\\20251124090436_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IServices\\ITokenService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Interfaces\\IServices\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IServices\\ITokenService.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Interfaces\\IServices\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:03:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:18:47.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Managers\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Managers\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Managers\\CategoryManager.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Managers\\CategoryManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:11:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Managers\\UserManager.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Managers\\UserManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:03:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IManagers\\ICategoryManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Interfaces\\IManagers\\ICategoryManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IManagers\\ICategoryManager.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Interfaces\\IManagers\\ICategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:49:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\Category.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\Category.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\Category.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:45:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IManagers\\IUserManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Interfaces\\IManagers\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IManagers\\IUserManager.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Interfaces\\IManagers\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:37:54.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Managers\\BookManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Managers\\BookManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Managers\\BookManager.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Managers\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:37:07.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:27:49.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BorrowReturn.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BorrowReturn.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\BorrowReturn.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BorrowReturn.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\BorrowReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:25:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BorrowRequest.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BorrowRequest.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\BorrowRequest.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BorrowRequest.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\BorrowRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:20:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:19:28.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\UserLogin.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\UserLogin.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:18:46.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\UserRegister.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\UserRegister.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\UserRegister.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:18:08.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookResponse.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BookResponse.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\BookResponse.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BookResponse.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\BookResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:17:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BookUpdate.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\BookUpdate.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BookUpdate.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\BookUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:17:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookCreate.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BookCreate.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Models\\DTOs\\BookCreate.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Models\\DTOs\\BookCreate.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Models\\DTOs\\BookCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:16:37.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IManagers\\IBookManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Interfaces\\IManagers\\IBookManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IManagers\\IBookManager.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Interfaces\\IManagers\\IBookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:13:46.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Repositories\\BaseRepositroy.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Repositories\\BaseRepositroy.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Repositories\\BaseRepositroy.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Repositories\\BaseRepositroy.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:09:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.Interfaces\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.Interfaces\\IRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:07:16.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251124090436_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Migrations\\20251124090436_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Migrations\\20251124090436_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Migrations\\20251124090436_InitialCreate.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Migrations\\20251124090436_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:04:36.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:03:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\User.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:58:42.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Entities\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\BorrowRecord.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Entities\\BorrowRecord.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:58:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\Book.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:57:32.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:57:16.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T08:45:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Context\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementAPI.DataAccess\\Context\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\LibraryManagementAPI\\LibraryManagementAPI.DataAccess\\Context\\LibraryDbContext.cs",
+              "RelativeToolTip": "..\\LibraryManagementAPI.DataAccess\\Context\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:45:32.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

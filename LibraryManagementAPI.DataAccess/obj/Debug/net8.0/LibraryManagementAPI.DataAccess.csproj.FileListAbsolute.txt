@@ -1,0 +1,14 @@
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.DataAccess.deps.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.DataAccess.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.DataAccess.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.AssemblyInfo.cs
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\refint\LibraryManagementAPI.DataAccess.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\ref\LibraryManagementAPI.DataAccess.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.DataAccess.runtimeconfig.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.genruntimeconfig.cache
