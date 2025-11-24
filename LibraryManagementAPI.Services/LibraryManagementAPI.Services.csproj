@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryManagementAPI.Managers\LibraryManagementAPI.Managers.csproj" />
+  </ItemGroup>
+
 </Project>

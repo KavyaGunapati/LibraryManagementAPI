@@ -35,18 +35,17 @@ namespace LibraryManagementAPI.Managers
             };
             await _borrowRecordRepo.AddAsync(newRecord);
             await _userRepository.SaveChangesAsync();
-
         }
 
-        public Task<IList<BorrowReturn>> GetBorrowedBooksAsync(int userId)
+        public async Task<IList<BorrowReturn>> GetBorrowedBooksAsync(int userId)
         {
-            throw new NotImplementedException();
+            var borrowedBooks=await _bookRepository.FindAsync(u=>u.Id==userId);
+            return _mapper.Map<IList<BorrowReturn>>(borrowedBooks);
         }
-
         public async Task<AuthResponse?> LoginAsync(UserLogin dto)
         {
             var user=(await _userRepository.FindAsync(u=>u.Username==dto.Username)).FirstOrDefault();
-            if(user == null) return null;
+            if(user == null || !BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash)) return null;
             var token=_tokenService.GenerateToken(user.Username,user.Role);
             return new AuthResponse { Token = token ,Username=user.Username,Role=user.Role};
         }
@@ -56,15 +55,20 @@ namespace LibraryManagementAPI.Managers
             var exsistingUser=(await _userRepository.FindAsync(u=>u.Username==dto.Username)).FirstOrDefault();
             if(exsistingUser != null) throw new InvalidOperationException("Username already exists.");
             var user=_mapper.Map<User>(dto);
+            user.PasswordHash=BCrypt.Net.BCrypt.HashPassword(dto.Password);
             await _userRepository.AddAsync(user);
             await _userRepository.SaveChangesAsync();
             var token=_tokenService.GenerateToken(user.Username,user.Role);
             return new AuthResponse { Token = token, Username = user.Username, Role = user.Role };
         }
-
-        public Task ReturnBookAsync(int userId, int bookId)
+        public async Task ReturnBookAsync(int userId, int bookId)
         {
-            throw new NotImplementedException();
+            var record=(await _borrowRecordRepo.FindAsync(u=>u.UserId==userId && u.BookId==bookId && !u.IsReturned)).FirstOrDefault();
+            if (record == null) throw new InvalidOperationException("No active borrow record found.");
+            record.IsReturned=true;
+            record.ReturnDate=DateTime.Now;
+           await _borrowRecordRepo.UpdateAsync(record);
+            await _borrowRecordRepo.SaveChangesAsync();
         }
     }
 }
