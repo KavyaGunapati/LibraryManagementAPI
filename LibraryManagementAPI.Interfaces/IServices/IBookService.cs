@@ -11,7 +11,7 @@ namespace LibraryManagementAPI.Interfaces.IServices
         Task AddBookAsync(BookCreate dto);
         Task UpdateBookAsync(int id, BookUpdate dto);
         Task DeleteBookAsync(int id);
-        Task<string> UploadCoverAsync(int bookId, IFormFile file);
-        Task<FileStream> DownloadCoverAsync(int bookId);
+        Task<string> UploadCoverAsync(int bookId, IFormFile file,string rootPath);
+        Task<FileStream> DownloadCoverAsync(int bookId,string rootPath);
     }
 }

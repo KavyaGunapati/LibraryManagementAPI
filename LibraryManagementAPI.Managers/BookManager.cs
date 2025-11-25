@@ -3,6 +3,7 @@ using LibraryManagementAPI.DataAccess.Entities;
 using LibraryManagementAPI.Interfaces.IManagers;
 using LibraryManagementAPI.Interfaces.IRepository;
 using LibraryManagementAPI.Models.DTOs;
+using Microsoft.AspNetCore.Http;
 
 namespace LibraryManagementAPI.Managers
 {
@@ -29,6 +30,19 @@ namespace LibraryManagementAPI.Managers
             await _repository.SaveChangesAsync();
         }
 
+        public async Task<string> GetCoverAsync(int bookId, string rootPath)
+        {
+            var book=await _repository.GetByIdAsync(bookId);
+
+            if (book == null || string.IsNullOrEmpty(book.CoverImagePath))
+                throw new FileNotFoundException("Cover not found.");
+            var filePath=Path.Combine(rootPath,"uploads",book.CoverImagePath);
+            if (!System.IO.File.Exists(filePath))
+                throw new FileNotFoundException("File Not Found");
+            return filePath;
+
+        }
+
         public async Task<IList<BookResponse>> GetAllBooksAsync()
         {
            var books=await _repository.GetAllAsync();
@@ -50,6 +64,27 @@ namespace LibraryManagementAPI.Managers
             _mapper.Map(book, bookExsist);
             await _repository.UpdateAsync(bookExsist);
             await _repository.SaveChangesAsync();
+
+        }
+
+        public async Task<string> UploadCoverAsync(int bookId, IFormFile file, string rootPath)
+        {
+
+            var book = await _repository.GetByIdAsync(bookId);
+            if (book == null) throw new KeyNotFoundException("Book not found.");
+            var uploadsFolder=Path.Combine(rootPath,"uploads");
+            if(!Directory.Exists(uploadsFolder))
+                Directory.CreateDirectory(uploadsFolder);
+            var fileName=$"{Guid.NewGuid()}_{file.FileName}";
+            var filePath=Path.Combine(uploadsFolder,fileName);
+            using(var stream=new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+            book.CoverImagePath = filePath;
+            await _repository.UpdateAsync(book);
+            await _repository.SaveChangesAsync();
+            return fileName;
 
         }
     }

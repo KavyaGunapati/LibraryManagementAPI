@@ -3,7 +3,6 @@ using LibraryManagementAPI.Interfaces.IServices;
 using LibraryManagementAPI.Interfaces.IManagers;
 using LibraryManagementAPI.Models.DTOs;
 using LibraryManagementAPI.Managers;
-using LibraryManagerAPI.Interfaces.IManagers;
 
 namespace LibraryManagementAPI.Services
 {

@@ -1,7 +1,7 @@
 ﻿
 using LibraryManagementAPI.Models.DTOs;
 
-namespace LibraryManagerAPI.Interfaces.IManagers
+namespace LibraryManagementAPI.Interfaces.IManagers
 {
     public interface IUserManager
     {

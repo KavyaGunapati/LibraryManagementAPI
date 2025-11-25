@@ -15,7 +15,7 @@ namespace LibraryManagementAPI.Services
         }
         public string GenerateToken(string userName,string role)
         {
-            var key = _configuration["Jwt:kKey"];
+            var key = _configuration["Jwt:Key"];
             var issuer = _configuration["Jwt:Issuer"];
             var audience = _configuration["Jwt:Audience"];
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));

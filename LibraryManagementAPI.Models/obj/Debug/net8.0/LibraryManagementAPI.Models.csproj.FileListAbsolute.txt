@@ -1,0 +1,12 @@
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\bin\Debug\net8.0\LibraryManagementAPI.Models.deps.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\bin\Debug\net8.0\LibraryManagementAPI.Models.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\bin\Debug\net8.0\LibraryManagementAPI.Models.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.AssemblyInfo.cs
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.sourcelink.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\refint\LibraryManagementAPI.Models.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\LibraryManagementAPI.Models.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Models\obj\Debug\net8.0\ref\LibraryManagementAPI.Models.dll

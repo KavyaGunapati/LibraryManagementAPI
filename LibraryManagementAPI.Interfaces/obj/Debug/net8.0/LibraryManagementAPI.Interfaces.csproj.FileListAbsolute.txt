@@ -1,0 +1,16 @@
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.csproj.AssemblyReference.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.AssemblyInfo.cs
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.sourcelink.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\bin\Debug\net8.0\LibraryManagementAPI.Interfaces.deps.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\bin\Debug\net8.0\LibraryManagementAPI.Interfaces.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\bin\Debug\net8.0\LibraryManagementAPI.Interfaces.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\bin\Debug\net8.0\LibraryManagementAPI.Models.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\bin\Debug\net8.0\LibraryManagementAPI.Models.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryM.52CD346A.Up2Date
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\refint\LibraryManagementAPI.Interfaces.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\LibraryManagementAPI.Interfaces.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.Interfaces\obj\Debug\net8.0\ref\LibraryManagementAPI.Interfaces.dll

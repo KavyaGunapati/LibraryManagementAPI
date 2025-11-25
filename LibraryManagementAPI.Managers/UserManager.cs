@@ -3,7 +3,7 @@ using LibraryManagementAPI.DataAccess.Entities;
 using LibraryManagementAPI.Interfaces.IRepository;
 using LibraryManagementAPI.Interfaces.IServices;
 using LibraryManagementAPI.Models.DTOs;
-using LibraryManagerAPI.Interfaces.IManagers;
+using LibraryManagementAPI.Interfaces.IManagers;
 
 namespace LibraryManagementAPI.Managers
 {
@@ -34,7 +34,7 @@ namespace LibraryManagementAPI.Managers
                 IsReturned = false
             };
             await _borrowRecordRepo.AddAsync(newRecord);
-            await _userRepository.SaveChangesAsync();
+            await _borrowRecordRepo.SaveChangesAsync();
         }
 
         public async Task<IList<BorrowReturn>> GetBorrowedBooksAsync(int userId)

@@ -2,7 +2,7 @@
 using LibraryManagementAPI.DataAccess.Entities;
 using LibraryManagementAPI.Interfaces.IRepository;
 using LibraryManagementAPI.Models.DTOs;
-using LibraryManagerAPI.Interfaces.IManagers;
+using LibraryManagementAPI.Interfaces.IManagers;
 
 namespace LibraryManagementAPI.Managers
 {

@@ -12,3 +12,9 @@ C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.
 C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\ref\LibraryManagementAPI.DataAccess.dll
 C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.DataAccess.runtimeconfig.json
 C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.genruntimeconfig.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryManagementAPI.DataAccess.sourcelink.json
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.Interfaces.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.Models.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.Interfaces.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\bin\Debug\net8.0\LibraryManagementAPI.Models.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\LibraryManagementAPI\LibraryManagementAPI.DataAccess\obj\Debug\net8.0\LibraryM.7DE92877.Up2Date

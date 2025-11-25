@@ -3,13 +3,11 @@ using LibraryManagementAPI.Interfaces.IManagers;
 using LibraryManagementAPI.Interfaces.IServices;
 using LibraryManagementAPI.Models.DTOs;
 using Microsoft.AspNetCore.Http;
-
 namespace LibraryManagementAPI.Services
 {
     public class BookService : IBookService
     {
         private readonly IBookManager _bookManager;
-
         public BookService(IBookManager bookManager)
         {
             _bookManager = bookManager;
@@ -40,16 +38,15 @@ namespace LibraryManagementAPI.Services
             await _bookManager.DeleteBookAsync(id);
         }
 
-        public async Task<string> UploadCoverAsync(int bookId, IFormFile file)
+        public async Task<string> UploadCoverAsync(int bookId, IFormFile file,string rootPath)
         {
-            // File handling logic will be added later
-            throw new NotImplementedException();
+            return await _bookManager.UploadCoverAsync(bookId, file, rootPath);
         }
 
-        public async Task<FileStream> DownloadCoverAsync(int bookId)
+        public async Task<FileStream> DownloadCoverAsync(int bookId,string rootPath)
         {
-            // File handling logic will be added later
-            throw new NotImplementedException();
+            var path=await _bookManager.GetCoverAsync(bookId,rootPath);
+            return new FileStream(path, FileMode.Open);
         }
     }
 }
